@@ -7,3 +7,4 @@ Group members                Reg. No:       (Pease register your name)
 1. okwir Ronald              2018-B071-10013
 2. Nabunnya Maria Teddy      2018-B071-10009
 3. Ngabirano Tobias          2018-B071-10021
+4. Nyamwenge Getrude         2018-B071-10012
