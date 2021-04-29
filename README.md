@@ -1,6 +1,6 @@
 # Nkozi-Electronics
 Final Exams E-Commerce. 
-Hi there, due to the changes to the project database we have changed this repository to the above name.
+Hi there, due to the changes in the project database we have changed this repository to the above name.
 So please endeavour to collaborate on this project.  You can edit, push, or change any codes to this project.
 
 Group members                Reg. No:       (Pease register your name)
